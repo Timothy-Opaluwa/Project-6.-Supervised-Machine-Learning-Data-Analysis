@@ -3,12 +3,15 @@
 Project overview
 
 About Airbnb:
+
 Airbnb, Inc. is an American San Francisco-based company operating an online marketplace for short- and long-term homestays and experiences. The company acts as a broker and charges a commission from each booking. It was founded in 2008 by Brian Chesky, Nathan Blecharczyk and Joe Gebbia.
 
 Project Description:
+
 This project uses data from Airbnb and machine learning to understand Airbnb prices in Berlin. It aims to pinpoint the peak travel seasons, highlight the priciest neighborhoods, and unravel the key determinants of price. This endeavor seeks to transform raw data into actionable insights, paving the way for savvy travel planning and informed decision-making.
 
 Motivation:
+
 I am planning to travel to Berlin, not for sight-seeing, but just to visit my friends. I won’t have time to visit all of them, so I’ve decided to book an Airbnb apartment in order to host them. Since I don’t want to spend much money, I am inspired to analyze Berlin Airbnb data to help me make a good decision.
 
 I will be answering the following Business Questions:
